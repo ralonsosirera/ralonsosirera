@@ -1,8 +1,8 @@
 # Rafael Alonso Sirera
 
-### Software Developer | Java · Spring · Angular · Microservices
+### Software Engineer | Java · Spring · Angular · Microservices
 
-Software Developer with experience building and maintaining enterprise
+Software Engineer with experience building and maintaining enterprise
 applications for the airline industry. Currently working at Minsait on
 airline booking solutions.
 
@@ -14,7 +14,7 @@ artificial intelligence, and computer science.
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer at **Minsait**
+- 💼 Software Engineer at **Minsait**
 - 🎓 BSc in Computer Engineering — **Universidad Politécnica de Madrid**
 - ☕ Primarily focused on **Java, Spring and backend development**
 - 🌐 Professional experience with **Angular and TypeScript**
@@ -121,7 +121,7 @@ shortcuts.
 
 ## 💼 Professional Experience
 
-**Software Developer — Minsait**
+**Software Engineer — Minsait**
 
 Developing and maintaining airline booking solutions using Java, Spring,
 Angular, TypeScript, MySQL and microservices architecture.
